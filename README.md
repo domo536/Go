@@ -646,6 +646,16 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ---
 </details><details>
+	<summary> <strong> median </strong> </summary>	
+
+---
+
+##### Functions:
+
+1. [`FindMedian`](./median/median.go#L6):  FindMedian calculates the median of a slice of integers.
+
+---
+</details><details>
 	<summary> <strong> min </strong> </summary>	
 
 ---
